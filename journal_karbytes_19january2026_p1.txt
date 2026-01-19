@@ -13,7 +13,10 @@ For each Uniform Resource Locator (URL) listed in this file:
         karlinarayberinger/KARLINA_OBJECT_extension_pack_54
     If the (URL) ends with any one of the following strings:
         index.html
-        sub-index_page_23.html
+        index_page_A4.html
+        index_page_24.html
+        index_page_25.html
+        index_page_26.html
         temp.txt
     Then:
         that file does not exist.
