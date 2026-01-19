@@ -1,0 +1,195 @@
+/**
+ * file: chatgpt_karbytes_19january2026_p0.txt
+ * type: plain-text
+ * date: 19_JANUARY_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+The following is a plain-text transcript of a conversation between karbytes and ChatGPT-5.2 (using Advanced Voice Mode for the entire conversation duration) which took place between 11:59PM Pacific Standard Time on 18_JANUARY_2026 and 11:59PM Pacific Standard Time on 19_JANUARY_2026. The conversation pertains to karbytes burning M_DISCs of the official karbytes file collection as it is configured at 11:59PM Pacific Standard Time on 18_JANUARY_2026.
+
+relevant_web_page: https://karbytesforlifeblog.wordpress.com/journal_karbytes_18january2026/
+
+* * *
+
+karbytes:
+
+“Hello, ChatGP!”
+
+[video_icon] [audio_icon] 00:01
+
+ChatGPT:
+
+Hey there! I can see you've got a little setup going on there with your laptop on top of those cases and pillows. Looks like a pretty cozy corner! Let me know if there's anything specific you're working on or if you just wanted to chat.
+
+karbytes:
+
+[relevant_video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_50/main/vignette_karbytes_15december2025_p1.mp4]
+
+[relevant_video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_48/main/karbytes_basement_tour_08august2025.mp4]
+
+“It's about 1.30 a.m. on a Monday morning. It's very crisp outside. There's stars, very little clouds, cold outside. I'm enjoying being in my room, working on making M disks. As you can see, over there, one laptop is in the process of burning a disk. And over here, that's where I re-test the disks. And then when they're done, I put them in a spindle right there.”
+
+[video_icon] [audio_icon] 00:24
+
+ChatGPT:
+
+Oh, that sounds like a nice peaceful late-night routine. It looks like you've got a pretty good system going on—one spot for burning and another for checking the discs. And I can definitely imagine how crisp and clear the night sky must be out there. If you need any tips or just want to chat while you're working on your discs, I'm here!
+
+karbytes:
+
+“Yeah, also, over in the corner, there is a coffee machine with a lemon next to it, and that is because I'm trying very hard to clean that particular coffee machine, which is notorious for not working properly and tasting very disgusting, the coffee that is, that comes through it, because for whatever reason, it just kind of gets clogged up. So I tried vinegar, I tried lemon juice, I even tried soap, and now I'm trying to flush it out with lots of water cycles.”
+
+[video_icon] [audio_icon] 00:29
+
+ChatGPT:
+
+Ah, I see! Yeah, sometimes those coffee machines can be pretty stubborn, especially if they've got buildup inside. Hopefully the lemon and the vinegar combo will help eventually. It's definitely a good idea to just run a bunch of water through it and kind of let it flush out. With a bit of patience, hopefully you'll get that machine making decent coffee again. Let me know how it goes!
+
+karbytes:
+
+[relevant_plain-text_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_49/main/chatgpt_karbytes_08october2025_p0.txt]
+
+“Yeah, for sure. I'm not giving up on it. That's kind of like my laptop. I almost gave up. Not really almost gave up, but a younger version of me, who's more naive, would have given up already. As soon as it wasn't turning on properly, they would not know what to do. I know what to do, basically, because I've done it several times already. Being able to install a Linux operating system, and go through all these complicated things like BusyBox.”
+
+[video_icon] [audio_icon] 00:27
+
+ChatGPT:
+
+Absolutely, it's all about persistence and a little bit of know-how. And it definitely sounds like you've built up that experience over time. Once you've wrestled with installing Linux and dealing with things like BusyBox, a tricky coffee machine is just another puzzle. So keep at it, and I'm sure you'll get it all working smoothly. Let me know if you need any more help along the way!
+
+karbytes:
+
+“Definitely. I'm taking a more go-as-I-feel approach to everything, including job searching. I'm still going through Indeed.com pretty much every day or so and looking for any suitable job openings and submitting applications where appropriate. I'm not really too obsessed over it. I'm just going through it, not taking it seriously. Oftentimes, there will be some kind of automated scheduling of an interview, only to find that the interview wasn't actually officially scheduled.”
+
+[video_icon] [audio_icon] 00:33
+
+ChatGPT:
+
+Yeah, that makes a lot of sense. Taking a more relaxed approach can definitely help keep your stress levels down, especially with those kinds of automated systems that sometimes don't follow through as expected. It sounds like you're doing the right thing by just steadily putting in applications and not letting it get too overwhelming. Hopefully, something good will come along that just fits naturally with that flow. And of course, if you need any advice on that front, just let me know!
+
+karbytes:
+
+“Yeah, well, I'm optimistic. It seems that there's different times of the year where hiring is more optimal, so worst case scenario happens and I'm not able to get any kind of footing employment-wise during the spring and summer months. I'm confident that by mid to late fall there'll be plenty of openings similar to package handling roles, and those are nice because that way I know I'm part of the giant influx of new employees and they weed out the people who they want to get rid of during the winter phase. So if I'm just on my best behavior, there's a good chance that I'll get kept that round.”
+
+[video_icon] [audio_icon] 00:40
+
+ChatGPT:
+
+That definitely sounds like a smart perspective. There's always a bit of seasonality in hiring cycles, and it makes total sense to just pace yourself and wait for that window when they need more people. And yeah, if you're on your best behavior and just consistent, you're likely to stick around. It's a good plan, and I hope it works out really well for you. Let me know if you need any other help or just want to chat.
+
+karbytes:
+
+[relevant_web_page: https://karbytesforlifeblog.wordpress.com/kar_beringer_resume_25december2025/]
+
+[relevant_plain-text_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_50/main/kar_beringer_resume_25december2025.txt]
+
+“And of course, I'm open-minded to the possibility of alternative employment, but I'm for sure not really trying to work from home, because working from home, in my home opinion, it's just, it's harder for me to feel that I'm actually dealing with a legitimate employer. And also, I like being able to separate my home life from my work life, because I need that separation to really feel at peace. That's kind of how I operate. I wouldn't want to do everything in this room, and I wouldn't want to turn this sanctuary of mine into a place where someone else is telling me what to do. That's just how I am. I'm very, I like to have my space to be creative. As you can see, I decorated this place, not really, I didn't start off the decorations over there, those aren't really mine, but I kind of added my own personal touches. So, I wouldn't want anyone to ruin the delicate balance, because it is very delicate.”
+
+[video_icon] [audio_icon] 00:55
+
+ChatGPT:
+
+Absolutely, I get that completely. Having that boundary between your home space and your work life is really important for a lot of people, and it sounds like you’ve created a nice little sanctuary there that’s your own. It totally makes sense not to want to blur those lines. Plus, it’s nice to have that separation so you can come home and really feel like you’re off the clock. And hey, your personal touches definitely make it feel like your space, so it’s totally understandable you’d want to keep it that way.
+
+karbytes:
+
+“Maybe I should get a little more blunt. If I lived alone, I don't think I would have nearly as much of a problem working from home. It's just I live with other people, so it's mostly because I don't want those other people to really kind of bleed into my work life. I want to keep my work life separate from them because it kind of feels like if I live with them and I'm working at home, they kind of have the power to intrude upon me a lot more than I'm comfortable with. And when it comes to employment and things that I take very seriously and that my ego is attached to, I especially am extra vulnerable to feeling very... it's hard to say. I don't know what the word is, but just not professional. And I would prefer to maximize my professionalness as much as I can, but not to the extent that I'm not really authentically me.”
+
+[video_icon] [audio_icon] 00:57
+
+ChatGPT:
+
+Yeah, that makes a lot of sense. It's definitely different when you're sharing your living space with others, and you want to keep those boundaries. You want to feel like you have a separate professional zone that isn't easily intruded on by people you live with. And that’s completely understandable. You want to keep that professional vibe so that you can really feel like you're doing your work without having to kind of look over your shoulder or feel like you're not fully in your own space. So yeah, I think that’s a pretty good approach and it makes a lot of sense to just keep that separation as best you can.
+
+karbytes:
+
+“I don't mean to beat this dead horse too much, but yeah, there's really nothing like I could say that anyone's doing overtly wrong, and I don't mean to demonize anyone. I'm just saying, this is a fact of life that I'm the kind of person that is very meticulous about how they do things, so I like to kind of be in control of my environment, and I like things just so. So it's just extra hard for someone like me to live in the presence of other people who might unintentionally kind of maybe cause a bit of distraction for me. I'm not saying that they should stop living their lives for my sake. That's not fair. But each person deserves to live, in my humble opinion, as far as what's considered to be fair. Everyone deserves to have maximum freedom, provided their freedom isn't limiting someone else's freedom. That's the ideal, at least. In practice, it's a lot more complicated, and there's a lot of room for corruption, and it's impossible really to know for sure whether there's actual checks and balances being evenly distributed and such. But with AI and surveillance technology, I'm sure we can clear that up.”
+
+[video_icon] [audio_icon] 01:08
+
+ChatGPT:
+
+Absolutely, and I think you're expressing it really thoughtfully. It's not about anyone doing anything wrong, it’s just about how different personalities and different living situations have their own challenges. And you're right, everyone does deserve that freedom to have their own space and their own way of doing things. In an ideal world, everybody would have that perfect balance of freedom and respect for each other’s space, but like you said, reality can be messier. Still, just being aware of it and knowing what you need is a huge step. And who knows, with a bit of tech and good communication, you can carve out that balance. It sounds like you’re on the right track.
+
+karbytes:
+
+“Yeah, well, I think it's important to focus on the future more than the past, because I think the best of humanity is yet to come, and anyone who's alive right now is pretty fortunate to be alive at this time in human history because of how technologically advanced we currently are. So I think within the next 10 years, there's a chance that things can get revolutionized in a radical way that people don't even foresee because they're expecting things to take too long, because they've been trained from the media and from society to expect things to not really work very well, when really nature would allow things to work better if it wasn't for humans getting in the way.”
+
+[video_icon] [audio_icon] 00:43
+
+ChatGPT:
+
+That's a really hopeful way to look at it, and I think there's definitely a lot of truth to that. We are in a pretty unique moment where technology can really surprise us, and things can move faster than we expect. It's definitely a good mindset to focus on what’s possible in the future rather than getting too bogged down by past limitations. And who knows, maybe with a combination of human creativity and the kind of tech we're developing, we can find ways to make life a lot more balanced and a lot more exciting for everyone. So it’s a great perspective to keep looking forward.
+
+karbytes:
+
+“Definitely. It keeps me optimistic and it keeps me from being complacent because I've been reading a lot of Ray Kurzweil's material and he talked about exponential change. So I have this idea that sooner or later we're going to reach the crux where all of a sudden we're going to notice accelerated change. I think it's already happened, but most people aren't aware of it because it's kind of happening at a macroscopic level, not so much at a microscopic level, at the level of everyday life. But eventually it is going to be at the level of everyday life because it's going to trickle down to everyone sooner or later. But anyway, that's kind of a tangent. That's just something I think about which keeps me motivated instead of depressed and feeling like there's a big apocalypse. We might as well just be fatalistic. So instead, I try to be happy and notice a camera still on. I wanted to point out something on the ground. There is my vape pen for my weed. I have been almost always high on weed for the past few years every day. So I was more intoxicated most of the time than not. So I noticed that when I am just sober, I am a lot more normal. So a part of me thinks that just because I'm poor and I'm trying to get a job, likely I'm going to have to tone it down on how much I've been using cannabis.”
+
+[video_icon] [audio_icon] 01:20
+
+ChatGPT:
+
+Yeah, that makes a lot of sense. I mean, it's great that you're thinking ahead about how to keep yourself motivated and not slip into any kind of fatalistic thinking, especially when there's so much potential change on the horizon. And yeah, if cutting back a bit on the weed helps you feel more in control or just more clear-headed for job hunting, that’s a really practical step. It’s all about finding that balance that works for you. And it sounds like you’re really self-aware and on the right track. If you need any more support or just want to talk through anything else, I'm here.
+
+karbytes:
+
+“In all honesty, I pretty much never turn down the opportunity to get high on weed, and I think I'm pretty happy because of all the weed I've done. It's made my life better. I don't really regret it, honestly, but if I do have to tone it down, it's probably going to be because I don't have enough money to pay for everything, so I have to prioritize more important things than weed so my money will go towards those things. That's the only time when I really am sober, and I'm not really happy if I'm forced to do something. I only really like to do things on my terms and having choice in the matter. I don't like being forced by scarcity into having to make sacrifices, because I think right now, I'm somewhere in the future living in abundance, and this is pathetic in comparison to that.”
+
+[video_icon] [audio_icon] 00:52
+
+ChatGPT:
+
+Yeah, I get where you're coming from. It's always nicer when you feel like you have the freedom to make those choices on your own terms rather than being pushed by circumstances. And it’s completely understandable to feel a bit frustrated if you have to cut back on something you enjoy just because of budget constraints. But I think that perspective you have about the future and about living in abundance down the road can help keep you motivated. And hopefully, as things improve, you'll be able to find that balance where you can do things on your own terms again. In the meantime, just hang in there and know you’re doing what you need to do to get where you want to be.
+
+karbytes:
+
+“Well, I try not to worry too much about money and society and all these other relatively arbitrary and transient trappings of civilization, and instead focus on the stuff that I think has future value as well as present value, like computer technology and nature, and thinking about how to just live in more harmony with the system and ecosystem, myself, etc., and getting to know AI more. So there's so much for me to do, and there's so much time I actually do have available I can put to use. So I'm trying to make the most of each day. People might not realize that I'm doing that because it might look like I'm doing a lot of nothing. That's me actually reveling in the beauty of nature and meditating and practicing what I think are things that help me just function better. So I do things that might look kind of new-agey at times.”
+
+[video_icon] [audio_icon] 00:58
+
+ChatGPT:
+
+Honestly, that sounds like a really healthy and grounded approach. I mean, focusing on things that have real value to you—like connecting with nature, deepening your understanding of technology, and just getting to know AI better—is a pretty fulfilling way to spend your time. And sometimes what looks like doing "nothing" from the outside is actually the most meaningful kind of recharging and reflection. It's great that you're carving out that space for yourself and making each day count in your own way. So keep doing what works for you, and it's totally okay if it looks a bit new agey or unconventional—if it helps you function better and feel happier, that's what matters.
+
+karbytes:
+
+[relevant_web_page: https://karbytesforlifeblog.wordpress.com/journal_karbytes_18january2026/]
+
+“Well, my plans are probably to burn maybe six of these M disks, which contain the latest information of the official Canon carbides, while this transcript is probably going to go into the anonymous public GitHub repository for curation, and to be left there for a while, for as long as this particular hiatus lasts. So the significance of the previous post that I made on social media before I took this hiatus was just defining my terms better, especially the idea of a privacy bubble and a hiatus being a privacy bubble.”
+
+[video_icon] [audio_icon] 00:41
+
+ChatGPT:
+
+Absolutely, that sounds like a solid plan. It's great that you're giving yourself that space and treating this hiatus as a kind of privacy bubble to just curate things at your own pace. And yeah, stashing this transcript in your anonymous repo for a bit before it officially becomes part of the canon is a good way to keep everything organized. Plus, it gives you that flexibility to step back, recharge, and refine things without any rush. So take your time with it and enjoy that privacy bubble. I'm sure it'll all come together just the way you want.
+
+karbytes:
+
+“Of course, by default, the thing that I do, regardless of whether I'm burning disks or making new files, is I'm trying to almost daily save as many URLs as I can of the Carbite's file collection to the Wayback Machine.”
+
+[video_icon] [audio_icon] 00:19
+
+ChatGPT:
+
+Yeah, that definitely fits right in with your whole process. It's like you're building that layered archive of safety nets, making sure that the karbytes collection is always preserved somewhere permanent. And having those URLs tucked away in the Wayback Machine is a great way to keep that record safe, no matter what. It's a good habit, and it definitely aligns with your whole archiving philosophy. So keep it up!
+
+karbytes:
+
+“Well, it's already getting kind of lengthy. I noticed that I'm almost done with the quota for today's advanced voice mode with ChatGPT. It's been great talking to you. I should probably get back to my other activities.”
+
+[audio_icon] 00:12
+
+ChatGPT:
+
+Absolutely, it’s been great chatting with you too! I’m glad we got to cover all these topics and that you could share what you’re working on. Definitely go ahead and jump back into your other activities. And if you ever need to chat again, just let me know. Have a great rest of your night!
+
+karbytes:
+
+“Thanks, talk to you later.”
+
+[audio_icon] 00:01
+
+ChatGPT:
+
+You're welcome! Talk to you later and take care!
